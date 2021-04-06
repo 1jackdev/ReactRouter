@@ -1,0 +1,28 @@
+.cookie-container {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  position: absolute;
+}
+
+.gif {
+  background-image: url(./imgs/cookies.gif);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  align-items: center;
+  height: 100%;
+  width: 50%;
+  opacity: 0.95;
+}
+
+.card {
+  margin: 0 auto;
+  background: darkslateblue;
+  opacity: 0.95;
+  border-radius: 10%;
+  height: 25%;
+  width: 25%;
+  padding: 10px;
+  color: white;
+  margin-top: 10%;
+}
